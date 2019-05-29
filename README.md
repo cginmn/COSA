@@ -9,7 +9,7 @@ Agenda:
 
 Open Source Approach - Carlos Garcia
 
-Open Source Pharmacy Management - Sean O'Neil
+Idempiere: Open Source Pharmacy Management - Sean O'Neil
 
 Hashicorp Corporate Overview - William Patton
 
@@ -21,4 +21,6 @@ Links discussed:
 https://github.com/Optum/mockiato
 
 https://github.com/Optum
+
+https://bitbucket.org/idempiere/
 
