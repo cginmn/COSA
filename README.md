@@ -3,6 +3,8 @@ Clinical Open Source Alliance
 
 Presentation material for the Clinical Open Source Alliance Meetups
 
+_____________________________________________________
+
 Wednesday May 15, 2019 - COSA Kickoff Twin Cities, MN
 
 Agenda:
